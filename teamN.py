@@ -20,8 +20,12 @@ from vega_datasets import data
 # Data Import
 #############################################################################
 
-url = "https://raw.githubusercontent.com/CMU-IDS-Fall-2022/assignment-3-team-n/master/WC22_main.csv"
-df = pd.read_csv(url, encoding = "latin1")
+@st.cache
+def load_data():
+    url = "https://raw.githubusercontent.com/CMU-IDS-Fall-2022/assignment-3-team-n/master/WC22_main.csv"
+    return pd.read_csv(url)
+
+df = load_data()
 
 st.set_page_config(layout = "wide")
 if st.checkbox("Show Raw Data"):
