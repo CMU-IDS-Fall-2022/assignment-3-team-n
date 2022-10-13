@@ -109,17 +109,10 @@ teaminput = df[slice_labels].Team.item()
 st.write("Your team is **{Team}**".format(Team = teaminput))
 
 #############################################################################
-# Team's World Cup History
-#############################################################################
-
-st.header("3. Get to know your team")
-st.text("Look how your Team has been doing in the World Cup")
-
-#############################################################################
 # Opponents
 #############################################################################
 
-st.header("4. Get to know the Opponents")
+st.header("3. Get to know the Opponents")
 st.text("Check the Opponent teams and the match dates of WC22")
 
 cols = st.columns(3)
@@ -154,7 +147,7 @@ with cols[2]:
 # Compare
 #############################################################################   
 
-st.header("5. Analyze the 2 Teams")
+st.header("4. Analyze the 2 Teams")
 st.text("Preview the Winning Rate based on the Historical Record")
 
 yourinput = teaminput
