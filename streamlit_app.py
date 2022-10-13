@@ -174,7 +174,7 @@ if oppinput == team1:
         rate = st.write("Winning rate: **{rate}**".format(rate = rate0))
         ser = pd.Series([wins0, loses0, draws0], index=['W', 'L', 'D'])
         ser = pd.DataFrame({"Record": ['Win','Lose','Draw'], "value": [wins0,loses0,draws0]})
-        c = alt.Chart(ser).mark_arc().encode(
+        c = alt.Chart(ser).mark_arc(stroke = "black", strokeWidth = 0.5).encode(
             theta=alt.Theta(field="value", type="quantitative"),
             color=alt.Color('Record', scale=alt.Scale(range=colorspec)),
             tooltip=['Record', 'value'],
@@ -196,7 +196,7 @@ if oppinput == team1:
         rate = st.write("Winning rate: **{rate}**".format(rate = rate1))
         ser = pd.Series([wins0, loses0, draws0], index=['W', 'L', 'D'])
         ser = pd.DataFrame({"Record": ['Win','Lose','Draw'], "value": [wins1,loses1,draws1]})
-        c = alt.Chart(ser).mark_arc().encode(
+        c = alt.Chart(ser).mark_arc(stroke = "black", strokeWidth = 0.5).encode(
             theta=alt.Theta(field="value", type="quantitative"),
             color=alt.Color('Record', scale=alt.Scale(range=colorspec)),
             tooltip=['Record', 'value'],
@@ -220,7 +220,7 @@ if oppinput == team2:
         rate = st.write("Winning rate: **{rate}**".format(rate = rate0))
         ser = pd.Series([wins0, loses0, draws0], index=['W', 'L', 'D'])
         ser = pd.DataFrame({"Record": ['Win','Lose','Draw'], "value": [wins0,loses0,draws0]})
-        c = alt.Chart(ser).mark_arc().encode(
+        c = alt.Chart(ser).mark_arc(stroke = "black", strokeWidth = 0.5).encode(
             theta=alt.Theta(field="value", type="quantitative"),
             color=alt.Color('Record', scale=alt.Scale(range=colorspec)),
             tooltip=['Record', 'value'],
@@ -242,7 +242,7 @@ if oppinput == team2:
         rate = st.write("Winning rate: **{rate}**".format(rate = rate1))
         ser = pd.Series([wins0, loses0, draws0], index=['W', 'L', 'D'])
         ser = pd.DataFrame({"Record": ['Win','Lose','Draw'], "value": [wins1,loses1,draws1]})
-        c = alt.Chart(ser).mark_arc().encode(
+        c = alt.Chart(ser).mark_arc(stroke = "black", strokeWidth = 0.5).encode(
             theta=alt.Theta(field="value", type="quantitative"),
             color=alt.Color('Record', scale=alt.Scale(range=colorspec)),
             tooltip=['Record', 'value'],
@@ -266,7 +266,7 @@ if oppinput == team3:
         rate = st.write("Winning rate: **{rate}**".format(rate = rate0))
         ser = pd.Series([wins0, loses0, draws0], index=['W', 'L', 'D'])
         ser = pd.DataFrame({"Record": ['Win','Lose','Draw'], "value": [wins0,loses0,draws0]})
-        c = alt.Chart(ser).mark_arc().encode(
+        c = alt.Chart(ser).mark_arc(stroke = "black", strokeWidth = 0.5).encode(
             theta=alt.Theta(field="value", type="quantitative"),
             color=alt.Color('Record', scale=alt.Scale(range=colorspec)),
             tooltip=['Record', 'value'],
@@ -288,7 +288,7 @@ if oppinput == team3:
         rate = st.write("Winning rate: **{rate}**".format(rate = rate1))
         ser = pd.Series([wins0, loses0, draws0], index=['W', 'L', 'D'])
         ser = pd.DataFrame({"Record": ['Win','Lose','Draw'], "value": [wins1,loses1,draws1]})
-        c = alt.Chart(ser).mark_arc().encode(
+        c = alt.Chart(ser).mark_arc(stroke = "black", strokeWidth = 0.5).encode(
             theta=alt.Theta(field="value", type="quantitative"),
             color=alt.Color('Record', scale=alt.Scale(range=colorspec)),
             tooltip=['Record', 'value'],
