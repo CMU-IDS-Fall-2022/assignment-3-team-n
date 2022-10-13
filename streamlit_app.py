@@ -20,6 +20,8 @@ from vega_datasets import data
 # Data Import
 #############################################################################
 
+st.set_page_config(layout = "wide")
+
 @st.cache
 def load_data():
     url = "https://raw.githubusercontent.com/CMU-IDS-Fall-2022/assignment-3-team-n/master/WC22_main.csv"
@@ -27,7 +29,6 @@ def load_data():
 
 df = load_data()
 
-st.set_page_config(layout = "wide")
 if st.checkbox("Show Raw Data"):
     st.write(df)
 
