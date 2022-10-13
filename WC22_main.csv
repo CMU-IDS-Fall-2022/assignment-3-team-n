@@ -1,0 +1,33 @@
+uid,Group,Team,Points,FIFA,Coach,Key Player,team1,FIFA1,date1,games1a,wins1a,loses1a,draws1a,rate1a,games1b,wins1b,loses1b,draws1b,rate1b,team2,FIFA2,date2,games2a,wins2a,loses2a,draws2a,rate2a,games2b,wins2b,loses2b,draws2b,rate2b,team3,FIFA3,date3,games3a,wins3a,loses3a,draws3a,rate3a,games3b,wins3b,loses3b,draws3b,rate3b
+218,A,Ecuador,1464.39,44,Gustavo Alfaro,Enner Valencia,Netherlands,8,11/25/2022,2,0,1,1,0%,2,1,0,1,50%,Qatar,50,11/21/2022,3,1,1,1,33%,3,1,1,1,33%,Senegal,18,11/29/2022,2,0,2,0,0%,2,2,0,0,100%
+528,A,Netherlands,1694.51,8,Louis van Gaal,Virgil van Dijk,Ecuador,44,11/25/2022,2,1,0,1,50%,2,0,1,1,0%,Qatar,50,11/29/2022,0,0,0,0,0%,0,0,0,0,0%,Senegal,18,11/21/2022,0,0,0,0,0%,0,0,0,0,0%
+634,A,Qatar,1439.89,50,Félix Sánchez,Almoez Ali,Ecuador,44,11/21/2022,3,1,1,1,33%,3,1,1,1,33%,Netherlands,8,11/29/2022,0,0,0,0,0%,0,0,0,0,0%,Senegal,18,11/25/2022,0,0,0,0,0%,0,0,0,0,0%
+686,A,Senegal,1584.38,18,Aliou Cissé,Sadio Mané,Ecuador,44,11/29/2022,2,2,0,0,100%,2,0,2,0,0%,Netherlands,8,11/21/2022,0,0,0,0,0%,2,2,0,0,100%,Qatar,50,11/25/2022,0,0,0,0,0%,0,0,0,0,0%
+372,B,England,1728.47,5,Gareth Southgate,Harry Kane,Iran,20,11/21/2022,0,0,0,0,0%,0,0,0,0,0%,USA,16,11/25/2022,0,0,0,0,0%,0,0,0,0,0%,Wales,19,11/29/2022,104,68,15,21,65%,104,15,68,21,14%
+364,B,Iran,1564.61,20,Dragan Skočić,Sardar Azmoun,England,5,11/21/2022,0,0,0,0,0%,0,0,0,0,0%,USA,16,11/29/2022,0,0,0,0,0%,0,0,0,0,0%,Wales,19,11/25/2022,0,0,0,0,0%,0,0,0,0,0%
+840,B,USA,1627.48,16,Gregg Berhalter,Christian Pulisic,England,5,11/25/2022,0,0,0,0,0%,0,0,0,0,0%,Iran,20,11/29/2022,0,0,0,0,0%,0,0,0,0,0%,Wales,19,11/21/2022,0,0,0,0,0%,0,0,0,0,0%
+826,B,Wales,1569.82,19,Rob Page,Gareth Bale,England,5,11/29/2022,104,15,68,21,14%,104,68,15,21,65%,Iran,20,11/25/2022,0,0,0,0,0%,0,0,0,0,0%,USA,16,11/21/2022,0,0,0,0,0%,0,0,0,0,0%
+32,C,Argentina,1773.88,3,Lionel Scaloni,Lionel Messi,Mexico,13,11/26/2022,31,15,4,12,48%,31,4,15,12,13%,Poland,26,11/30/2022,11,6,3,2,55%,11,3,6,2,27%,Saudi Arabia,51,11/22/2022,4,2,0,2,50%,4,0,2,2,0%
+484,C,Mexico,1644.89,13,"Gerardo ""Tata"" Martino",Raúl Jiménez,Argentina,3,11/26/2022,31,4,15,12,13%,31,15,4,12,48%,Poland,26,11/22/2022,9,3,3,3,33%,9,3,3,3,33%,Saudi Arabia,51,11/30/2022,5,4,0,1,80%,5,0,4,1,0%
+616,C,Poland,1548.59,26,Czesław Michniewicz,Robert Lewandowski,Argentina,3,11/30/2022,11,3,6,2,27%,11,6,3,2,55%,Mexico,13,11/22/2022,9,3,3,3,33%,9,3,3,3,33%,Saudi Arabia,51,11/26/2022,4,4,0,0,100%,4,0,4,0,0%
+682,C,Saudi Arabia,1437.78,51,Hervé Renard,Salem Al-Dawsari,Argentina,3,11/22/2022,4,0,2,2,0%,4,2,0,2,50%,Mexico,13,11/30/2022,5,0,4,1,0%,5,4,0,1,80%,Poland,26,11/26/2022,4,0,4,0,0%,4,4,0,0,100%
+36,D,Australia,1488.72,38,Graham Arnold,Mathew Leckie,Denmark,10,11/30/2022,4,1,2,1,25%,4,2,1,1,50%,France,4,11/22/2022,5,1,3,1,20%,5,1,3,1,20%,Tunisia,30,11/26/2022,1,0,1,0,0%,1,1,0,0,100%
+208,D,Denmark,1666.57,10,Kasper Hjulmand,Christian Eriksen,Australia,38,11/30/2022,4,2,1,1,50%,4,1,2,1,25%,France,4,11/26/2022,15,5,8,2,33%,15,8,5,2,53%,Tunisia,30,11/22/2022,1,1,0,0,100%,1,0,1,0,0%
+250,D,France,1759.78,4,Didier Deschamps,N'Golo Kanté,Australia,38,11/22/2022,5,3,1,1,60%,5,1,3,1,20%,Denmark,10,11/26/2022,15,8,5,2,53%,15,5,8,2,33%,Tunisia,30,11/30/2022,4,2,0,2,50%,4,0,2,2,0%
+788,D,Tunisia,1507.54,30,Jalel Kadri,Wahbi Khazri,Australia,38,11/26/2022,1,1,0,0,100%,1,0,1,0,0%,Denmark,10,11/22/2022,1,0,1,0,0%,1,1,0,0,100%,France,4,11/30/2022,4,0,2,2,0%,4,2,0,2,50%
+188,E,Costa Rica,1503.59,31,Luis Fernando Suárez,Thiago Alcantara,Germany,11,12/1/2022,1,0,1,0,0%,1,1,0,0,100%,Japan,24,11/27/2022,4,0,3,1,0%,4,3,0,1,75%,Spain,7,11/23/2022,3,0,2,1,0%,3,2,0,1,67%
+276,E,Germany,1650.21,11,Hansi Flick,Thomas Muller,Costa Rica,31,12/1/2022,1,1,0,0,100%,1,0,1,0,0%,Japan,24,11/23/2022,2,1,0,1,50%,2,0,1,1,0%,Spain,7,11/27/2022,25,9,8,8,36%,25,8,9,8,32%
+392,E,Japan,1559.54,24,Hajime Moriyasu,Takumi Minamino,Costa Rica,31,11/27/2022,4,3,0,1,75%,4,0,3,1,0%,Germany,11,11/23/2022,2,0,1,1,0%,2,1,0,1,50%,Spain,7,12/1/2022,1,0,1,0,0%,1,1,0,0,100%
+724,E,Spain,1715.22,7,Luis Enrique,Thiago Alcantara,Costa Rica,31,11/23/2022,3,2,0,1,67%,3,0,2,1,0%,Germany,11,11/27/2022,25,8,9,8,32%,25,9,8,8,36%,Japan,24,12/1/2022,1,1,0,0,100%,1,0,1,0,0%
+56,F,Belgium,1816.71,2,Roberto Martínez,Kevin De Bruyne,Canada,41,11/23/2022,1,1,0,0,100%,1,0,1,0,0%,Croatia,12,12/1/2022,8,3,3,2,38%,8,3,3,2,38%,Morocco,22,11/27/2022,3,2,1,0,67%,3,1,2,0,33%
+124,F,Canada,1475,41,John Herdman,Alphonso Davies,Belgium,2,11/23/2022,1,0,1,0,0%,1,1,0,0,100%,Croatia,12,11/27/2022,0,0,0,0,0%,0,0,0,0,0%,Morocco,22,12/1/2022,3,0,2,1,0%,3,2,0,1,67%
+191,F,Croatia,1645.64,12,Zlatko Dalić,Luka Modric,Belgium,2,12/1/2022,8,3,3,2,38%,8,3,3,2,38%,Canada,41,11/27/2022,0,0,0,0,0%,0,0,0,0,0%,Morocco,22,11/23/2022,1,0,0,1,0%,1,0,0,1,0%
+504,F,Morocco,1563.5,22,Walid Regragui,Hakim Ziyech,Belgium,2,11/27/2022,3,1,2,0,33%,3,2,1,0,67%,Canada,41,12/1/2022,3,2,0,1,67%,3,0,2,1,0%,Croatia,12,11/23/2022,1,0,0,1,0%,1,0,0,1,0%
+76,G,Brazil,1841.3,1,Tite,Neymar,Cameroon,43,12/2/2022,6,5,1,0,83%,6,1,5,0,17%,Serbia,21,11/24/2022,5,4,0,1,80%,5,0,4,1,0%,Switzerland,15,11/28/2022,9,3,2,4,33%,9,2,3,4,22%
+120,G,Cameroon,1471.44,43,Rigobert Song,Vincent Aboubakar,Brazil,1,12/2/2022,6,1,5,0,17%,6,5,1,0,83%,Serbia,21,11/28/2022,1,0,1,0,0%,1,1,0,0,100%,Switzerland,15,11/24/2022,0,0,0,0,0%,0,0,0,0,0%
+688,G,Serbia,1563.62,21,Dragan Stojković,Sergej Milinković-Savić,Brazil,1,11/24/2022,5,0,4,1,0%,5,4,0,1,80%,Cameroon,43,11/28/2022,1,1,0,0,100%,1,0,1,0,0%,Switzerland,15,12/2/2022,5,1,1,3,20%,5,1,1,3,20%
+756,G,Switzerland,1635.92,15,Murat Yakin,Xherdan Shaqiri,Brazil,1,11/28/2022,9,2,3,4,22%,9,3,2,4,33%,Cameroon,43,11/24/2022,0,0,0,0,0%,0,0,0,0,0%,Serbia,21,12/2/2022,5,1,1,3,20%,5,1,1,3,20%
+288,H,Ghana,1393,61,Otto Addo,André Ayew,Portugal,9,11/24/2022,1,0,1,0,0%,1,1,0,0,100%,South Korea,28,11/28/2022,6,3,3,0,50%,6,3,3,0,50%,Uruguay,14,12/2/2022,1,0,0,1,0%,1,0,0,1,0%
+620,H,Portugal,1676.56,9,Fernando Santos,Cristiano Ronaldo,Ghana,61,11/24/2022,1,1,0,0,100%,1,0,1,0,0%,South Korea,28,12/2/2022,1,0,1,0,0%,1,1,0,0,100%,Uruguay,14,11/28/2022,3,1,1,1,33%,3,1,1,1,33%
+410,H,South Korea,1530.3,28,Paulo Bento,Son Heung-min,Ghana,61,11/28/2022,6,3,3,0,50%,6,3,3,0,50%,Portugal,9,12/2/2022,1,1,0,0,100%,1,0,1,0,0%,Uruguay,14,11/24/2022,8,1,6,1,13%,8,6,1,1,75%
+858,H,Uruguay,1638.71,14,Diego Alonso,Luis Suárez,Ghana,61,12/2/2022,1,0,0,1,0%,1,0,0,1,0%,Portugal,9,11/28/2022,3,1,1,1,33%,3,1,1,1,33%,South Korea,28,11/24/2022,8,6,1,1,75%,8,1,6,1,13%
