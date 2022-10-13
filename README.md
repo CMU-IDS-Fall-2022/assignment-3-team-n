@@ -1,7 +1,7 @@
 # CMU Interactive Data Science Assigment 3
 
 * **Team members**: jjna@andrew.cmu.edu and nbandewa@andrew.cmu.edu (Update XXXX with your team's emails)
-* **Online URL**: https://cmu-ids-fall-2022-assignment-3-team-n-teamn-aj3gvb.streamlitapp.com/
+* **Online URL**: https://cmu-ids-fall-2022-assignment-3-team-n-streamlit-app-58z6xc.streamlitapp.com/
 
 ## Instructions
 
