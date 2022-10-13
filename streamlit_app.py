@@ -20,17 +20,16 @@ from vega_datasets import data
 # Data Import
 #############################################################################
 
+url = "https://raw.githubusercontent.com/CMU-IDS-Fall-2022/assignment-3-team-n/master/WC22_main.csv"
+df = pd.read_csv(url, encoding = "latin1")
+
 st.set_page_config(layout = "wide")
-
-@st.cache
-def load_data():
-    url = "https://raw.githubusercontent.com/CMU-IDS-Fall-2022/assignment-3-team-n/master/WC22_main.csv"
-    return pd.read_csv(url)
-
-df = load_data()
-
 if st.checkbox("Show Raw Data"):
     st.write(df)
+
+# World Cup 2022 Countries Location Data
+
+
 
 # MAIN CODE ######################################################
 
@@ -107,10 +106,17 @@ teaminput = df[slice_labels].Team.item()
 st.write("Your team is **{Team}**".format(Team = teaminput))
 
 #############################################################################
+# Team's World Cup History
+#############################################################################
+
+st.header("3. Get to know your team")
+st.text("Look how your Team has been doing in the World Cup")
+
+#############################################################################
 # Opponents
 #############################################################################
 
-st.header("3. Get to know the Opponents")
+st.header("4. Get to know the Opponents")
 st.text("Check the Opponent teams and the match dates of WC22")
 
 cols = st.columns(3)
@@ -145,7 +151,7 @@ with cols[2]:
 # Compare
 #############################################################################   
 
-st.header("4. Analyze the 2 Teams")
+st.header("5. Analyze the 2 Teams")
 st.text("Preview the Winning Rate based on the Historical Record")
 
 yourinput = teaminput
@@ -171,11 +177,11 @@ if oppinput == team1:
         draws = st.write("Draws: **{draws}**".format(draws = draws0))
         rate = st.write("Winning rate: **{rate}**".format(rate = rate0))
         ser = pd.Series([wins0, loses0, draws0], index=['W', 'L', 'D'])
-        ser = pd.DataFrame({"record": ['Win','Lose','Draw'], "value": [wins0,loses0,draws0]})
+        ser = pd.DataFrame({"Record": ['Win','Lose','Draw'], "value": [wins0,loses0,draws0]})
         c = alt.Chart(ser).mark_arc().encode(
             theta=alt.Theta(field="value", type="quantitative"),
-            color=alt.Color('record', scale=alt.Scale(range=colorspec)),
-            tooltip=['record', 'value'],
+            color=alt.Color('Record', scale=alt.Scale(range=colorspec)),
+            tooltip=['Record', 'value'],
             ).properties(width=300)
         st.altair_chart(c)
     with col2:
@@ -193,11 +199,11 @@ if oppinput == team1:
         draws = st.write("Draws: **{draws}**".format(draws = draws1))
         rate = st.write("Winning rate: **{rate}**".format(rate = rate1))
         ser = pd.Series([wins0, loses0, draws0], index=['W', 'L', 'D'])
-        ser = pd.DataFrame({"record": ['Win','Lose','Draw'], "value": [wins1,loses1,draws1]})
+        ser = pd.DataFrame({"Record": ['Win','Lose','Draw'], "value": [wins1,loses1,draws1]})
         c = alt.Chart(ser).mark_arc().encode(
             theta=alt.Theta(field="value", type="quantitative"),
-            color=alt.Color('record', scale=alt.Scale(range=colorspec)),
-            tooltip=['record', 'value'],
+            color=alt.Color('Record', scale=alt.Scale(range=colorspec)),
+            tooltip=['Record', 'value'],
             ).properties(width=300)
         st.altair_chart(c)
             
@@ -217,11 +223,11 @@ if oppinput == team2:
         draws = st.write("Draws: **{draws}**".format(draws = draws0))
         rate = st.write("Winning rate: **{rate}**".format(rate = rate0))
         ser = pd.Series([wins0, loses0, draws0], index=['W', 'L', 'D'])
-        ser = pd.DataFrame({"record": ['Win','Lose','Draw'], "value": [wins0,loses0,draws0]})
+        ser = pd.DataFrame({"Record": ['Win','Lose','Draw'], "value": [wins0,loses0,draws0]})
         c = alt.Chart(ser).mark_arc().encode(
             theta=alt.Theta(field="value", type="quantitative"),
-            color=alt.Color('record', scale=alt.Scale(range=colorspec)),
-            tooltip=['record', 'value'],
+            color=alt.Color('Record', scale=alt.Scale(range=colorspec)),
+            tooltip=['Record', 'value'],
             ).properties(width=300)
         st.altair_chart(c)
     with col2:
@@ -239,11 +245,11 @@ if oppinput == team2:
         draws = st.write("Draws: **{draws}**".format(draws = draws1))
         rate = st.write("Winning rate: **{rate}**".format(rate = rate1))
         ser = pd.Series([wins0, loses0, draws0], index=['W', 'L', 'D'])
-        ser = pd.DataFrame({"record": ['Win','Lose','Draw'], "value": [wins1,loses1,draws1]})
+        ser = pd.DataFrame({"Record": ['Win','Lose','Draw'], "value": [wins1,loses1,draws1]})
         c = alt.Chart(ser).mark_arc().encode(
             theta=alt.Theta(field="value", type="quantitative"),
-            color=alt.Color('record', scale=alt.Scale(range=colorspec)),
-            tooltip=['record', 'value'],
+            color=alt.Color('Record', scale=alt.Scale(range=colorspec)),
+            tooltip=['Record', 'value'],
             ).properties(width=300)
         st.altair_chart(c)
         
@@ -263,11 +269,11 @@ if oppinput == team3:
         draws = st.write("Draws: **{draws}**".format(draws = draws0))
         rate = st.write("Winning rate: **{rate}**".format(rate = rate0))
         ser = pd.Series([wins0, loses0, draws0], index=['W', 'L', 'D'])
-        ser = pd.DataFrame({"record": ['Win','Lose','Draw'], "value": [wins0,loses0,draws0]})
+        ser = pd.DataFrame({"Record": ['Win','Lose','Draw'], "value": [wins0,loses0,draws0]})
         c = alt.Chart(ser).mark_arc().encode(
             theta=alt.Theta(field="value", type="quantitative"),
-            color=alt.Color('record', scale=alt.Scale(range=colorspec)),
-            tooltip=['record', 'value'],
+            color=alt.Color('Record', scale=alt.Scale(range=colorspec)),
+            tooltip=['Record', 'value'],
             ).properties(width=300)
         st.altair_chart(c)
     with col2:
@@ -285,11 +291,11 @@ if oppinput == team3:
         draws = st.write("Draws: **{draws}**".format(draws = draws1))
         rate = st.write("Winning rate: **{rate}**".format(rate = rate1))
         ser = pd.Series([wins0, loses0, draws0], index=['W', 'L', 'D'])
-        ser = pd.DataFrame({"record": ['Win','Lose','Draw'], "value": [wins1,loses1,draws1]})
+        ser = pd.DataFrame({"Record": ['Win','Lose','Draw'], "value": [wins1,loses1,draws1]})
         c = alt.Chart(ser).mark_arc().encode(
             theta=alt.Theta(field="value", type="quantitative"),
-            color=alt.Color('record', scale=alt.Scale(range=colorspec)),
-            tooltip=['record', 'value'],
+            color=alt.Color('Record', scale=alt.Scale(range=colorspec)),
+            tooltip=['Record', 'value'],
             ).properties(width=300)
         st.altair_chart(c)
 
