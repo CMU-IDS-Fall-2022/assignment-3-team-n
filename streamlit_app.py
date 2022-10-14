@@ -147,7 +147,7 @@ with cols[2]:
 ########################################################################################################################################################
 
 st.header("4. Analyze the two Teams")
-st.text("Preview the Winning Rate between the two based on the Historical Record. (There might be no pie if they never had the match before in the WC.)")
+st.text("Preview the Winning Rate between the two based on the Historical Record. (No pie chart provided if they never had the match before in the WC history.)")
 
 yourinput = teaminput
 oppinput = st.radio('Select the Opponent team here', [team1, team2, team3])
