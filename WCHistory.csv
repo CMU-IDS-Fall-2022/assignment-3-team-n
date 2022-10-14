@@ -1,0 +1,853 @@
+Year,Stage,Home Team Name,Home Team Goals,Away Team Name,Away Team Goals
+1930.0,Group 1,France,4.0,Mexico,1.0
+1930.0,Group 4,USA,3.0,Belgium,0.0
+1930.0,Group 2,Yugoslavia,2.0,Brazil,1.0
+1930.0,Group 3,Romania,3.0,Peru,1.0
+1930.0,Group 1,Argentina,1.0,France,0.0
+1930.0,Group 1,Chile,3.0,Mexico,0.0
+1930.0,Group 2,Yugoslavia,4.0,Bolivia,0.0
+1930.0,Group 4,USA,3.0,Paraguay,0.0
+1930.0,Group 3,Uruguay,1.0,Peru,0.0
+1930.0,Group 1,Chile,1.0,France,0.0
+1930.0,Group 1,Argentina,6.0,Mexico,3.0
+1930.0,Group 2,Brazil,4.0,Bolivia,0.0
+1930.0,Group 4,Paraguay,1.0,Belgium,0.0
+1930.0,Group 3,Uruguay,4.0,Romania,0.0
+1930.0,Group 1,Argentina,3.0,Chile,1.0
+1930.0,Semi-finals,Argentina,6.0,USA,1.0
+1930.0,Semi-finals,Uruguay,6.0,Yugoslavia,1.0
+1930.0,Final,Uruguay,4.0,Argentina,2.0
+1934.0,Preliminary round,Austria,3.0,France,2.0
+1934.0,Preliminary round,Hungary,4.0,Egypt,2.0
+1934.0,Preliminary round,Switzerland,3.0,Netherlands,2.0
+1934.0,Preliminary round,Sweden,3.0,Argentina,2.0
+1934.0,Preliminary round,Germany,5.0,Belgium,2.0
+1934.0,Preliminary round,Spain,3.0,Brazil,1.0
+1934.0,Preliminary round,Italy,7.0,USA,1.0
+1934.0,Preliminary round,Czechoslovakia,2.0,Romania,1.0
+1934.0,Quarter-finals,Czechoslovakia,3.0,Switzerland,2.0
+1934.0,Quarter-finals,Germany,2.0,Sweden,1.0
+1934.0,Quarter-finals,Italy,1.0,Spain,1.0
+1934.0,Quarter-finals,Austria,2.0,Hungary,1.0
+1934.0,Quarter-finals,Italy,1.0,Spain,0.0
+1934.0,Semi-finals,Italy,1.0,Austria,0.0
+1934.0,Semi-finals,Czechoslovakia,3.0,Germany,1.0
+1934.0,Match for third place,Germany,3.0,Austria,2.0
+1934.0,Final,Italy,2.0,Czechoslovakia,1.0
+1938.0,First round,Switzerland,1.0,Germany,1.0
+1938.0,First round,Hungary,6.0,Dutch East Indies,0.0
+1938.0,First round,France,3.0,Belgium,1.0
+1938.0,First round,Cuba,3.0,Romania,3.0
+1938.0,First round,Italy,2.0,Norway,1.0
+1938.0,First round,Brazil,6.0,Poland,5.0
+1938.0,First round,Czechoslovakia,3.0,Netherlands,0.0
+1938.0,First round,Cuba,2.0,Romania,1.0
+1938.0,First round,Switzerland,4.0,Germany,2.0
+1938.0,Quarter-finals,Brazil,1.0,Czechoslovakia,1.0
+1938.0,Quarter-finals,Hungary,2.0,Switzerland,0.0
+1938.0,Quarter-finals,Sweden,8.0,Cuba,0.0
+1938.0,Quarter-finals,Italy,3.0,France,1.0
+1938.0,Quarter-finals,Brazil,2.0,Czechoslovakia,1.0
+1938.0,Semi-finals,Hungary,5.0,Sweden,1.0
+1938.0,Semi-finals,Italy,2.0,Brazil,1.0
+1938.0,Match for third place,Brazil,4.0,Sweden,2.0
+1938.0,Final,Italy,4.0,Hungary,2.0
+1950.0,Group 1,Brazil,4.0,Mexico,0.0
+1950.0,Group 2,England,2.0,Chile,0.0
+1950.0,Group 2,Spain,3.0,USA,1.0
+1950.0,Group 3,Sweden,3.0,Italy,2.0
+1950.0,Group 1,Yugoslavia,3.0,Switzerland,0.0
+1950.0,Group 1,Brazil,2.0,Switzerland,2.0
+1950.0,Group 1,Yugoslavia,4.0,Mexico,1.0
+1950.0,Group 2,Spain,2.0,Chile,0.0
+1950.0,Group 3,Sweden,2.0,Paraguay,2.0
+1950.0,Group 2,USA,1.0,England,0.0
+1950.0,Group 1,Brazil,2.0,Yugoslavia,0.0
+1950.0,Group 2,Spain,1.0,England,0.0
+1950.0,Group 3,Italy,2.0,Paraguay,0.0
+1950.0,Group 4,Uruguay,8.0,Bolivia,0.0
+1950.0,Group 1,Switzerland,2.0,Mexico,1.0
+1950.0,Group 2,Chile,5.0,USA,2.0
+1950.0,Group 6,Uruguay,2.0,Spain,2.0
+1950.0,Group 6,Brazil,7.0,Sweden,1.0
+1950.0,Group 6,Brazil,6.0,Spain,1.0
+1950.0,Group 6,Uruguay,3.0,Sweden,2.0
+1950.0,Group 6,Sweden,3.0,Spain,1.0
+1950.0,Group 6,Uruguay,2.0,Brazil,1.0
+1954.0,Group 3,Uruguay,2.0,Czechoslovakia,0.0
+1954.0,Group 3,Austria,1.0,Scotland,0.0
+1954.0,Group 1,Brazil,5.0,Mexico,0.0
+1954.0,Group 1,Yugoslavia,1.0,France,0.0
+1954.0,Group 2,Germany,4.0,Turkey,1.0
+1954.0,Group 2,Hungary,9.0,South Korea,0.0
+1954.0,Group 4,England,4.0,Belgium,4.0
+1954.0,Group 4,Switzerland,2.0,Italy,1.0
+1954.0,Group 3,Uruguay,7.0,Scotland,0.0
+1954.0,Group 3,Austria,5.0,Czechoslovakia,0.0
+1954.0,Group 1,France,3.0,Mexico,2.0
+1954.0,Group 1,Brazil,1.0,Yugoslavia,1.0
+1954.0,Group 2,Hungary,8.0,Germany,3.0
+1954.0,Group 2,Turkey,7.0,South Korea,0.0
+1954.0,Group 4,England,2.0,Switzerland,0.0
+1954.0,Group 4,Italy,4.0,Belgium,1.0
+1954.0,Group 2,Germany,7.0,Turkey,2.0
+1954.0,Group 4,Switzerland,4.0,Italy,1.0
+1954.0,Quarter-finals,Uruguay,4.0,England,2.0
+1954.0,Quarter-finals,Austria,7.0,Switzerland,5.0
+1954.0,Quarter-finals,Germany,2.0,Yugoslavia,0.0
+1954.0,Quarter-finals,Hungary,4.0,Brazil,2.0
+1954.0,Semi-finals,Germany,6.0,Austria,1.0
+1954.0,Semi-finals,Hungary,4.0,Uruguay,2.0
+1954.0,Match for third place,Austria,3.0,Uruguay,1.0
+1954.0,Final,Germany,3.0,Hungary,2.0
+1958.0,Group 3,Sweden,3.0,Mexico,0.0
+1958.0,Group 4,Soviet Union,2.0,England,2.0
+1958.0,Group 1,Argentina,1.0,Germany,3.0
+1958.0,Group 3,Hungary,1.0,Wales,1.0
+1958.0,Group 2,France,7.0,Paraguay,3.0
+1958.0,Group 2,Yugoslavia,1.0,Scotland,1.0
+1958.0,Group 4,Brazil,3.0,Austria,0.0
+1958.0,Group 1,Northern Ireland,1.0,Czechoslovakia,0.0
+1958.0,Group 4,Brazil,0.0,England,0.0
+1958.0,Group 3,Mexico,1.0,Wales,1.0
+1958.0,Group 2,Paraguay,3.0,Scotland,2.0
+1958.0,Group 2,Yugoslavia,3.0,France,2.0
+1958.0,Group 4,Soviet Union,2.0,Austria,0.0
+1958.0,Group 1,Germany,2.0,Czechoslovakia,2.0
+1958.0,Group 1,Argentina,3.0,Northern Ireland,1.0
+1958.0,Group 3,Sweden,2.0,Hungary,1.0
+1958.0,Group 3,Sweden,0.0,Wales,0.0
+1958.0,Group 4,Brazil,2.0,Soviet Union,0.0
+1958.0,Group 1,Germany,2.0,Northern Ireland,2.0
+1958.0,Group 3,Hungary,4.0,Mexico,0.0
+1958.0,Group 2,Paraguay,3.0,Yugoslavia,3.0
+1958.0,Group 2,France,2.0,Scotland,1.0
+1958.0,Group 4,England,2.0,Austria,2.0
+1958.0,Group 1,Czechoslovakia,6.0,Argentina,1.0
+1958.0,Group 4,Soviet Union,1.0,England,0.0
+1958.0,Group 1,Northern Ireland,2.0,Czechoslovakia,1.0
+1958.0,Group 3,Wales,2.0,Hungary,1.0
+1958.0,Quarter-finals,Brazil,1.0,Wales,0.0
+1958.0,Quarter-finals,Germany,1.0,Yugoslavia,0.0
+1958.0,Quarter-finals,Sweden,2.0,Soviet Union,0.0
+1958.0,Quarter-finals,France,4.0,Northern Ireland,0.0
+1958.0,Semi-finals,Sweden,3.0,Germany,1.0
+1958.0,Semi-finals,Brazil,5.0,France,2.0
+1958.0,Match for third place,France,6.0,Germany,3.0
+1958.0,Final,Brazil,5.0,Sweden,2.0
+1962.0,Group 1,Uruguay,2.0,Colombia,1.0
+1962.0,Group 3,Brazil,2.0,Mexico,0.0
+1962.0,Group 4,Argentina,1.0,Bulgaria,0.0
+1962.0,Group 2,Chile,3.0,Switzerland,1.0
+1962.0,Group 1,Soviet Union,2.0,Yugoslavia,0.0
+1962.0,Group 3,Czechoslovakia,1.0,Spain,0.0
+1962.0,Group 4,Hungary,2.0,England,1.0
+1962.0,Group 2,Germany,0.0,Italy,0.0
+1962.0,Group 1,Yugoslavia,3.0,Uruguay,1.0
+1962.0,Group 3,Brazil,0.0,Czechoslovakia,0.0
+1962.0,Group 4,England,3.0,Argentina,1.0
+1962.0,Group 2,Chile,2.0,Italy,0.0
+1962.0,Group 1,Soviet Union,4.0,Colombia,4.0
+1962.0,Group 3,Spain,1.0,Mexico,0.0
+1962.0,Group 4,Hungary,6.0,Bulgaria,1.0
+1962.0,Group 2,Germany,2.0,Switzerland,1.0
+1962.0,Group 1,Soviet Union,2.0,Uruguay,1.0
+1962.0,Group 3,Brazil,2.0,Spain,1.0
+1962.0,Group 4,Hungary,0.0,Argentina,0.0
+1962.0,Group 2,Germany,2.0,Chile,0.0
+1962.0,Group 1,Yugoslavia,5.0,Colombia,0.0
+1962.0,Group 3,Mexico,3.0,Czechoslovakia,1.0
+1962.0,Group 4,England,0.0,Bulgaria,0.0
+1962.0,Group 2,Italy,3.0,Switzerland,0.0
+1962.0,Quarter-finals,Chile,2.0,Soviet Union,1.0
+1962.0,Quarter-finals,Brazil,3.0,England,1.0
+1962.0,Quarter-finals,Czechoslovakia,1.0,Hungary,0.0
+1962.0,Quarter-finals,Yugoslavia,1.0,Germany,0.0
+1962.0,Semi-finals,Czechoslovakia,3.0,Yugoslavia,1.0
+1962.0,Semi-finals,Brazil,4.0,Chile,2.0
+1962.0,Match for third place,Chile,1.0,Yugoslavia,0.0
+1962.0,Final,Brazil,3.0,Czechoslovakia,1.0
+1966.0,Group 1,England,0.0,Uruguay,0.0
+1966.0,Group 2,Germany,5.0,Switzerland,0.0
+1966.0,Group 3,Brazil,2.0,Bulgaria,0.0
+1966.0,Group 4,Soviet Union,3.0,Korea DPR,0.0
+1966.0,Group 1,France,1.0,Mexico,1.0
+1966.0,Group 3,Portugal,3.0,Hungary,1.0
+1966.0,Group 2,Argentina,2.0,Spain,1.0
+1966.0,Group 4,Italy,2.0,Chile,0.0
+1966.0,Group 1,Uruguay,2.0,France,1.0
+1966.0,Group 2,Spain,2.0,Switzerland,1.0
+1966.0,Group 3,Hungary,3.0,Brazil,1.0
+1966.0,Group 4,Korea DPR,1.0,Chile,1.0
+1966.0,Group 3,Portugal,3.0,Bulgaria,0.0
+1966.0,Group 2,Germany,0.0,Argentina,0.0
+1966.0,Group 4,Soviet Union,1.0,Italy,0.0
+1966.0,Group 1,England,2.0,Mexico,0.0
+1966.0,Group 1,Uruguay,0.0,Mexico,0.0
+1966.0,Group 2,Argentina,2.0,Switzerland,0.0
+1966.0,Group 3,Portugal,3.0,Brazil,1.0
+1966.0,Group 4,Korea DPR,1.0,Italy,0.0
+1966.0,Group 1,England,2.0,France,0.0
+1966.0,Group 3,Hungary,3.0,Bulgaria,1.0
+1966.0,Group 2,Germany,2.0,Spain,1.0
+1966.0,Group 4,Soviet Union,2.0,Chile,1.0
+1966.0,Quarter-finals,England,1.0,Argentina,0.0
+1966.0,Quarter-finals,Germany,4.0,Uruguay,0.0
+1966.0,Quarter-finals,Soviet Union,2.0,Hungary,1.0
+1966.0,Quarter-finals,Portugal,5.0,Korea DPR,3.0
+1966.0,Semi-finals,Germany,2.0,Soviet Union,1.0
+1966.0,Semi-finals,England,2.0,Portugal,1.0
+1966.0,Match for third place,Portugal,2.0,Soviet Union,1.0
+1966.0,Final,England,4.0,Germany,2.0
+1970.0,Group 1,Mexico,0.0,Soviet Union,0.0
+1970.0,Group 2,Uruguay,2.0,Israel,0.0
+1970.0,Group 4,Peru,3.0,Bulgaria,2.0
+1970.0,Group 3,England,1.0,Romania,0.0
+1970.0,Group 2,Italy,1.0,Sweden,0.0
+1970.0,Group 4,Germany,2.0,Morocco,1.0
+1970.0,Group 3,Brazil,4.0,Czechoslovakia,1.0
+1970.0,Group 1,Belgium,3.0,El Salvador,0.0
+1970.0,Group 2,Uruguay,0.0,Italy,0.0
+1970.0,Group 4,Peru,3.0,Morocco,0.0
+1970.0,Group 3,Romania,2.0,Czechoslovakia,1.0
+1970.0,Group 1,Soviet Union,4.0,Belgium,1.0
+1970.0,Group 2,Sweden,1.0,Israel,1.0
+1970.0,Group 4,Germany,5.0,Bulgaria,2.0
+1970.0,Group 3,Brazil,1.0,England,0.0
+1970.0,Group 1,Mexico,4.0,El Salvador,0.0
+1970.0,Group 2,Sweden,1.0,Uruguay,0.0
+1970.0,Group 4,Germany,3.0,Peru,1.0
+1970.0,Group 3,Brazil,3.0,Romania,2.0
+1970.0,Group 1,Soviet Union,2.0,El Salvador,0.0
+1970.0,Group 2,Italy,0.0,Israel,0.0
+1970.0,Group 4,Bulgaria,1.0,Morocco,1.0
+1970.0,Group 3,England,1.0,Czechoslovakia,0.0
+1970.0,Group 1,Mexico,1.0,Belgium,0.0
+1970.0,Quarter-finals,Italy,4.0,Mexico,1.0
+1970.0,Quarter-finals,Germany,3.0,England,2.0
+1970.0,Quarter-finals,Brazil,4.0,Peru,2.0
+1970.0,Quarter-finals,Uruguay,1.0,Soviet Union,0.0
+1970.0,Semi-finals,Brazil,3.0,Uruguay,1.0
+1970.0,Semi-finals,Italy,4.0,Germany,3.0
+1970.0,Match for third place,Germany,1.0,Uruguay,0.0
+1970.0,Final,Brazil,4.0,Italy,1.0
+1974.0,Group 2,Brazil,0.0,Yugoslavia,0.0
+1974.0,Group 1,Germany,1.0,Chile,0.0
+1974.0,Group 1,German DR,2.0,Australia,0.0
+1974.0,Group 2,Zaire,0.0,Scotland,2.0
+1974.0,Group 3,Uruguay,0.0,Netherlands,2.0
+1974.0,Group 3,Sweden,0.0,Bulgaria,0.0
+1974.0,Group 4,Italy,3.0,Haiti,1.0
+1974.0,Group 4,Poland,3.0,Argentina,2.0
+1974.0,Group 1,Australia,0.0,Germany,3.0
+1974.0,Group 2,Scotland,0.0,Brazil,0.0
+1974.0,Group 1,Chile,1.0,German DR,1.0
+1974.0,Group 2,Yugoslavia,9.0,Zaire,0.0
+1974.0,Group 3,Netherlands,0.0,Sweden,0.0
+1974.0,Group 3,Bulgaria,1.0,Uruguay,1.0
+1974.0,Group 4,Haiti,0.0,Poland,7.0
+1974.0,Group 4,Argentina,1.0,Italy,1.0
+1974.0,Group 2,Scotland,1.0,Yugoslavia,1.0
+1974.0,Group 1,Australia,0.0,Chile,0.0
+1974.0,Group 2,Zaire,0.0,Brazil,3.0
+1974.0,Group 1,German DR,1.0,Germany,0.0
+1974.0,Group 3,Bulgaria,1.0,Netherlands,4.0
+1974.0,Group 4,Argentina,4.0,Haiti,1.0
+1974.0,Group 3,Sweden,3.0,Uruguay,0.0
+1974.0,Group 4,Poland,2.0,Italy,1.0
+1974.0,Group B,Yugoslavia,0.0,Germany,2.0
+1974.0,Group A,Brazil,1.0,German DR,0.0
+1974.0,Group A,Netherlands,4.0,Argentina,0.0
+1974.0,Group B,Sweden,0.0,Poland,1.0
+1974.0,Group A,Argentina,1.0,Brazil,2.0
+1974.0,Group B,Poland,2.0,Yugoslavia,1.0
+1974.0,Group A,German DR,0.0,Netherlands,2.0
+1974.0,Group B,Germany,4.0,Sweden,2.0
+1974.0,Group B,Poland,0.0,Germany,1.0
+1974.0,Group A,Netherlands,2.0,Brazil,0.0
+1974.0,Group A,Argentina,1.0,German DR,1.0
+1974.0,Group B,Sweden,2.0,Yugoslavia,1.0
+1974.0,Match for third place,Brazil,0.0,Poland,1.0
+1974.0,Final,Netherlands,1.0,Germany,2.0
+1978.0,Group 2,Germany,0.0,Poland,0.0
+1978.0,Group 1,Italy,2.0,France,1.0
+1978.0,Group 2,Tunisia,3.0,Mexico,1.0
+1978.0,Group 1,Argentina,2.0,Hungary,1.0
+1978.0,Group 3,Sweden,1.0,Brazil,1.0
+1978.0,Group 3,Austria,2.0,Spain,1.0
+1978.0,Group 4,Peru,3.0,Scotland,1.0
+1978.0,Group 4,Netherlands,3.0,Iran,0.0
+1978.0,Group 1,Italy,3.0,Hungary,1.0
+1978.0,Group 2,Poland,1.0,Tunisia,0.0
+1978.0,Group 2,Germany,6.0,Mexico,0.0
+1978.0,Group 1,Argentina,2.0,France,1.0
+1978.0,Group 3,Brazil,0.0,Spain,0.0
+1978.0,Group 3,Austria,1.0,Sweden,0.0
+1978.0,Group 4,Scotland,1.0,Iran,1.0
+1978.0,Group 4,Netherlands,0.0,Peru,0.0
+1978.0,Group 1,France,3.0,Hungary,1.0
+1978.0,Group 2,Poland,3.0,Mexico,1.0
+1978.0,Group 2,Germany,0.0,Tunisia,0.0
+1978.0,Group 1,Italy,1.0,Argentina,0.0
+1978.0,Group 3,Brazil,1.0,Austria,0.0
+1978.0,Group 3,Spain,1.0,Sweden,0.0
+1978.0,Group 4,Peru,4.0,Iran,1.0
+1978.0,Group 4,Scotland,3.0,Netherlands,2.0
+1978.0,Group A,Germany,0.0,Italy,0.0
+1978.0,Group A,Netherlands,5.0,Austria,1.0
+1978.0,Group B,Brazil,3.0,Peru,0.0
+1978.0,Group B,Argentina,2.0,Poland,0.0
+1978.0,Group B,Poland,1.0,Peru,0.0
+1978.0,Group A,Italy,1.0,Austria,0.0
+1978.0,Group A,Germany,2.0,Netherlands,2.0
+1978.0,Group B,Argentina,0.0,Brazil,0.0
+1978.0,Group A,Netherlands,2.0,Italy,1.0
+1978.0,Group A,Austria,3.0,Germany,2.0
+1978.0,Group B,Brazil,3.0,Poland,1.0
+1978.0,Group B,Argentina,6.0,Peru,0.0
+1978.0,Match for third place,Brazil,2.0,Italy,1.0
+1978.0,Final,Argentina,3.0,Netherlands,1.0
+1982.0,Group 3,Argentina,0.0,Belgium,1.0
+1982.0,Group 1,Italy,0.0,Poland,0.0
+1982.0,Group 6,Brazil,2.0,Soviet Union,1.0
+1982.0,Group 1,Peru,0.0,Cameroon,0.0
+1982.0,Group 3,Hungary,10.0,El Salvador,1.0
+1982.0,Group 6,Scotland,5.0,New Zealand,2.0
+1982.0,Group 2,Germany,1.0,Algeria,2.0
+1982.0,Group 4,England,3.0,France,1.0
+1982.0,Group 5,Spain,1.0,Honduras,1.0
+1982.0,Group 2,Chile,0.0,Austria,1.0
+1982.0,Group 4,Czechoslovakia,1.0,Kuwait,1.0
+1982.0,Group 5,Yugoslavia,0.0,Northern Ireland,0.0
+1982.0,Group 1,Italy,1.0,Peru,1.0
+1982.0,Group 3,Argentina,4.0,Hungary,1.0
+1982.0,Group 6,Brazil,4.0,Scotland,1.0
+1982.0,Group 1,Poland,0.0,Cameroon,0.0
+1982.0,Group 3,Belgium,1.0,El Salvador,0.0
+1982.0,Group 6,Soviet Union,3.0,New Zealand,0.0
+1982.0,Group 2,Germany,4.0,Chile,1.0
+1982.0,Group 4,England,2.0,Czechoslovakia,0.0
+1982.0,Group 5,Spain,2.0,Yugoslavia,1.0
+1982.0,Group 2,Algeria,0.0,Austria,2.0
+1982.0,Group 4,France,4.0,Kuwait,1.0
+1982.0,Group 5,Honduras,1.0,Northern Ireland,1.0
+1982.0,Group 1,Poland,5.0,Peru,1.0
+1982.0,Group 3,Belgium,1.0,Hungary,1.0
+1982.0,Group 6,Soviet Union,2.0,Scotland,2.0
+1982.0,Group 1,Italy,1.0,Cameroon,1.0
+1982.0,Group 3,Argentina,2.0,El Salvador,0.0
+1982.0,Group 6,Brazil,4.0,New Zealand,0.0
+1982.0,Group 2,Algeria,3.0,Chile,2.0
+1982.0,Group 4,France,1.0,Czechoslovakia,1.0
+1982.0,Group 5,Honduras,0.0,Yugoslavia,1.0
+1982.0,Group 2,Germany,1.0,Austria,0.0
+1982.0,Group 4,England,1.0,Kuwait,0.0
+1982.0,Group 5,Northern Ireland,1.0,Spain,0.0
+1982.0,Group 4,Austria,0.0,France,1.0
+1982.0,Group 1,Poland,3.0,Belgium,0.0
+1982.0,Group 3,Italy,2.0,Argentina,1.0
+1982.0,Group 2,Germany,0.0,England,0.0
+1982.0,Group 4,Austria,2.0,Northern Ireland,2.0
+1982.0,Group 1,Belgium,0.0,Soviet Union,1.0
+1982.0,Group 3,Argentina,1.0,Brazil,3.0
+1982.0,Group 2,Germany,2.0,Spain,1.0
+1982.0,Group 4,France,4.0,Northern Ireland,1.0
+1982.0,Group 1,Poland,0.0,Soviet Union,0.0
+1982.0,Group 3,Italy,3.0,Brazil,2.0
+1982.0,Group 2,Spain,0.0,England,0.0
+1982.0,Semi-finals,Poland,0.0,Italy,2.0
+1982.0,Semi-finals,Germany,3.0,France,3.0
+1982.0,Match for third place,Poland,3.0,France,2.0
+1982.0,Final,Italy,3.0,Germany,1.0
+1986.0,Group A,Bulgaria,1.0,Italy,1.0
+1986.0,Group C,Canada,0.0,France,1.0
+1986.0,Group D,Spain,0.0,Brazil,1.0
+1986.0,Group C,Soviet Union,6.0,Hungary,0.0
+1986.0,Group A,Argentina,3.0,South Korea,1.0
+1986.0,Group F,Morocco,0.0,Poland,0.0
+1986.0,Group D,Algeria,1.0,Northern Ireland,1.0
+1986.0,Group B,Belgium,1.0,Mexico,2.0
+1986.0,Group F,Portugal,1.0,England,0.0
+1986.0,Group B,Paraguay,1.0,Iraq,0.0
+1986.0,Group E,Scotland,0.0,Denmark,1.0
+1986.0,Group E,Uruguay,1.0,Germany,1.0
+1986.0,Group A,Italy,1.0,Argentina,1.0
+1986.0,Group C,France,1.0,Soviet Union,1.0
+1986.0,Group A,South Korea,1.0,Bulgaria,1.0
+1986.0,Group C,Hungary,2.0,Canada,0.0
+1986.0,Group D,Brazil,1.0,Algeria,0.0
+1986.0,Group F,England,0.0,Morocco,0.0
+1986.0,Group D,Northern Ireland,1.0,Spain,2.0
+1986.0,Group B,Mexico,1.0,Paraguay,1.0
+1986.0,Group F,Poland,1.0,Portugal,0.0
+1986.0,Group B,Iraq,1.0,Belgium,2.0
+1986.0,Group E,Denmark,6.0,Uruguay,1.0
+1986.0,Group E,Germany,2.0,Scotland,1.0
+1986.0,Group C,Hungary,0.0,France,3.0
+1986.0,Group C,Soviet Union,2.0,Canada,0.0
+1986.0,Group A,South Korea,2.0,Italy,3.0
+1986.0,Group A,Argentina,2.0,Bulgaria,0.0
+1986.0,Group B,Paraguay,2.0,Belgium,2.0
+1986.0,Group B,Iraq,0.0,Mexico,1.0
+1986.0,Group F,Portugal,1.0,Morocco,3.0
+1986.0,Group F,England,3.0,Poland,0.0
+1986.0,Group D,Northern Ireland,0.0,Brazil,3.0
+1986.0,Group D,Algeria,0.0,Spain,3.0
+1986.0,Group E,Scotland,0.0,Uruguay,0.0
+1986.0,Group E,Denmark,2.0,Germany,0.0
+1986.0,Round of 16,Soviet Union,3.0,Belgium,4.0
+1986.0,Round of 16,Mexico,2.0,Bulgaria,0.0
+1986.0,Round of 16,Argentina,1.0,Uruguay,0.0
+1986.0,Round of 16,Brazil,4.0,Poland,0.0
+1986.0,Round of 16,Italy,0.0,France,2.0
+1986.0,Round of 16,Morocco,0.0,Germany,1.0
+1986.0,Round of 16,England,3.0,Paraguay,0.0
+1986.0,Round of 16,Denmark,1.0,Spain,5.0
+1986.0,Quarter-finals,Brazil,1.0,France,1.0
+1986.0,Quarter-finals,Germany,0.0,Mexico,0.0
+1986.0,Quarter-finals,Spain,1.0,Belgium,1.0
+1986.0,Quarter-finals,Argentina,2.0,England,1.0
+1986.0,Semi-finals,France,0.0,Germany,2.0
+1986.0,Semi-finals,Argentina,2.0,Belgium,0.0
+1986.0,Match for third place,France,4.0,Belgium,2.0
+1986.0,Final,Argentina,3.0,Germany,2.0
+1990.0,Group B,Argentina,0.0,Cameroon,1.0
+1990.0,Group B,Soviet Union,0.0,Romania,2.0
+1990.0,Group D,"rn"">United Arab Emirates",0.0,Colombia,2.0
+1990.0,Group A,Italy,1.0,Austria,0.0
+1990.0,Group A,USA,1.0,Czechoslovakia,5.0
+1990.0,Group C,Brazil,2.0,Sweden,1.0
+1990.0,Group D,Germany,4.0,Yugoslavia,1.0
+1990.0,Group C,Costa Rica,1.0,Scotland,0.0
+1990.0,Group F,England,1.0,"rn"">Republic of Ireland",1.0
+1990.0,Group E,Belgium,2.0,South Korea,0.0
+1990.0,Group F,Netherlands,1.0,Egypt,1.0
+1990.0,Group E,Uruguay,0.0,Spain,0.0
+1990.0,Group B,Argentina,2.0,Soviet Union,0.0
+1990.0,Group B,Cameroon,2.0,Romania,1.0
+1990.0,Group D,Yugoslavia,1.0,Colombia,0.0
+1990.0,Group A,Italy,1.0,USA,0.0
+1990.0,Group A,Austria,0.0,Czechoslovakia,1.0
+1990.0,Group D,Germany,5.0,"rn"">United Arab Emirates",1.0
+1990.0,Group C,Brazil,1.0,Costa Rica,0.0
+1990.0,Group C,Sweden,1.0,Scotland,2.0
+1990.0,Group F,England,0.0,Netherlands,0.0
+1990.0,Group F,"rn"">Republic of Ireland",0.0,Egypt,0.0
+1990.0,Group E,South Korea,1.0,Spain,3.0
+1990.0,Group E,Belgium,3.0,Uruguay,1.0
+1990.0,Group B,Argentina,1.0,Romania,1.0
+1990.0,Group B,Cameroon,0.0,Soviet Union,4.0
+1990.0,Group D,Germany,1.0,Colombia,1.0
+1990.0,Group D,Yugoslavia,4.0,"rn"">United Arab Emirates",1.0
+1990.0,Group A,Italy,2.0,Czechoslovakia,0.0
+1990.0,Group A,Austria,2.0,USA,1.0
+1990.0,Group C,Brazil,1.0,Scotland,0.0
+1990.0,Group C,Sweden,1.0,Costa Rica,2.0
+1990.0,Group E,South Korea,0.0,Uruguay,1.0
+1990.0,Group E,Belgium,1.0,Spain,2.0
+1990.0,Group F,"rn"">Republic of Ireland",1.0,Netherlands,1.0
+1990.0,Group F,England,1.0,Egypt,0.0
+1990.0,Round of 16,Cameroon,2.0,Colombia,1.0
+1990.0,Round of 16,Czechoslovakia,4.0,Costa Rica,1.0
+1990.0,Round of 16,Brazil,0.0,Argentina,1.0
+1990.0,Round of 16,Germany,2.0,Netherlands,1.0
+1990.0,Round of 16,"rn"">Republic of Ireland",0.0,Romania,0.0
+1990.0,Round of 16,Italy,2.0,Uruguay,0.0
+1990.0,Round of 16,Spain,1.0,Yugoslavia,2.0
+1990.0,Round of 16,England,1.0,Belgium,0.0
+1990.0,Quarter-finals,Yugoslavia,0.0,Argentina,0.0
+1990.0,Quarter-finals,Italy,1.0,"rn"">Republic of Ireland",0.0
+1990.0,Quarter-finals,Germany,1.0,Czechoslovakia,0.0
+1990.0,Quarter-finals,England,3.0,Cameroon,2.0
+1990.0,Semi-finals,Italy,1.0,Argentina,1.0
+1990.0,Semi-finals,Germany,1.0,England,1.0
+1990.0,Match for third place,Italy,2.0,England,1.0
+1990.0,Final,Germany,1.0,Argentina,0.0
+1994.0,Group C,Spain,2.0,South Korea,2.0
+1994.0,Group C,Germany,1.0,Bolivia,0.0
+1994.0,Group A,USA,1.0,Switzerland,1.0
+1994.0,Group E,Italy,0.0,"rn"">Republic of Ireland",1.0
+1994.0,Group A,Colombia,1.0,Romania,3.0
+1994.0,Group F,Belgium,1.0,Morocco,0.0
+1994.0,Group E,Norway,1.0,Mexico,0.0
+1994.0,Group B,Cameroon,2.0,Sweden,2.0
+1994.0,Group F,Netherlands,2.0,Saudi Arabia,1.0
+1994.0,Group B,Brazil,2.0,Russia,0.0
+1994.0,Group D,Argentina,4.0,Greece,0.0
+1994.0,Group D,Nigeria,3.0,Bulgaria,0.0
+1994.0,Group C,Germany,1.0,Spain,1.0
+1994.0,Group A,Romania,1.0,Switzerland,4.0
+1994.0,Group A,USA,2.0,Colombia,1.0
+1994.0,Group E,Italy,1.0,Norway,0.0
+1994.0,Group C,South Korea,0.0,Bolivia,0.0
+1994.0,Group E,Mexico,2.0,"rn"">Republic of Ireland",1.0
+1994.0,Group B,Sweden,3.0,Russia,1.0
+1994.0,Group B,Brazil,3.0,Cameroon,0.0
+1994.0,Group F,Belgium,1.0,Netherlands,0.0
+1994.0,Group F,Saudi Arabia,2.0,Morocco,1.0
+1994.0,Group D,Argentina,2.0,Nigeria,1.0
+1994.0,Group D,Bulgaria,4.0,Greece,0.0
+1994.0,Group A,USA,0.0,Romania,1.0
+1994.0,Group A,Switzerland,0.0,Colombia,2.0
+1994.0,Group C,Germany,3.0,South Korea,2.0
+1994.0,Group C,Bolivia,1.0,Spain,3.0
+1994.0,Group E,"rn"">Republic of Ireland",0.0,Norway,0.0
+1994.0,Group B,Brazil,1.0,Sweden,1.0
+1994.0,Group E,Italy,1.0,Mexico,1.0
+1994.0,Group B,Russia,6.0,Cameroon,1.0
+1994.0,Group F,Morocco,1.0,Netherlands,2.0
+1994.0,Group F,Belgium,0.0,Saudi Arabia,1.0
+1994.0,Group D,Greece,0.0,Nigeria,2.0
+1994.0,Group D,Argentina,0.0,Bulgaria,2.0
+1994.0,Round of 16,Germany,3.0,Belgium,2.0
+1994.0,Round of 16,Spain,3.0,Switzerland,0.0
+1994.0,Round of 16,Saudi Arabia,1.0,Sweden,3.0
+1994.0,Round of 16,Romania,3.0,Argentina,2.0
+1994.0,Round of 16,Netherlands,2.0,"rn"">Republic of Ireland",0.0
+1994.0,Round of 16,Brazil,1.0,USA,0.0
+1994.0,Round of 16,Nigeria,1.0,Italy,2.0
+1994.0,Round of 16,Mexico,1.0,Bulgaria,1.0
+1994.0,Quarter-finals,Italy,2.0,Spain,1.0
+1994.0,Quarter-finals,Netherlands,2.0,Brazil,3.0
+1994.0,Quarter-finals,Bulgaria,2.0,Germany,1.0
+1994.0,Quarter-finals,Romania,2.0,Sweden,2.0
+1994.0,Semi-finals,Bulgaria,1.0,Italy,2.0
+1994.0,Semi-finals,Sweden,0.0,Brazil,1.0
+1994.0,Match for third place,Sweden,4.0,Bulgaria,0.0
+1994.0,Final,Brazil,0.0,Italy,0.0
+1998.0,Group A,Brazil,2.0,Scotland,1.0
+1998.0,Group A,Morocco,2.0,Norway,2.0
+1998.0,Group B,Italy,2.0,Chile,2.0
+1998.0,Group B,Cameroon,1.0,Austria,1.0
+1998.0,Group D,Paraguay,0.0,Bulgaria,0.0
+1998.0,Group C,Saudi Arabia,0.0,Denmark,1.0
+1998.0,Group C,France,3.0,South Africa,0.0
+1998.0,Group D,Spain,2.0,Nigeria,3.0
+1998.0,Group E,South Korea,1.0,Mexico,3.0
+1998.0,Group E,Netherlands,0.0,Belgium,0.0
+1998.0,Group H,Argentina,1.0,Japan,0.0
+1998.0,Group F,Yugoslavia,1.0,Iran,0.0
+1998.0,Group H,Jamaica,1.0,Croatia,3.0
+1998.0,Group G,England,2.0,Tunisia,0.0
+1998.0,Group G,Romania,1.0,Colombia,0.0
+1998.0,Group F,Germany,2.0,USA,0.0
+1998.0,Group A,Scotland,1.0,Norway,1.0
+1998.0,Group A,Brazil,3.0,Morocco,0.0
+1998.0,Group B,Chile,1.0,Austria,1.0
+1998.0,Group B,Italy,3.0,Cameroon,0.0
+1998.0,Group C,South Africa,1.0,Denmark,1.0
+1998.0,Group C,France,4.0,Saudi Arabia,0.0
+1998.0,Group D,Nigeria,1.0,Bulgaria,0.0
+1998.0,Group D,Spain,0.0,Paraguay,0.0
+1998.0,Group H,Japan,0.0,Croatia,1.0
+1998.0,Group E,Belgium,2.0,Mexico,2.0
+1998.0,Group E,Netherlands,5.0,South Korea,0.0
+1998.0,Group F,Germany,2.0,Yugoslavia,2.0
+1998.0,Group H,Argentina,5.0,Jamaica,0.0
+1998.0,Group F,USA,1.0,Iran,2.0
+1998.0,Group G,Colombia,1.0,Tunisia,0.0
+1998.0,Group G,Romania,2.0,England,1.0
+1998.0,Group B,Italy,2.0,Austria,1.0
+1998.0,Group B,Chile,1.0,Cameroon,1.0
+1998.0,Group A,Scotland,0.0,Morocco,3.0
+1998.0,Group A,Brazil,1.0,Norway,2.0
+1998.0,Group C,France,2.0,Denmark,1.0
+1998.0,Group C,South Africa,2.0,Saudi Arabia,2.0
+1998.0,Group D,Spain,6.0,Bulgaria,1.0
+1998.0,Group D,Nigeria,1.0,Paraguay,3.0
+1998.0,Group E,Belgium,1.0,South Korea,1.0
+1998.0,Group E,Netherlands,2.0,Mexico,2.0
+1998.0,Group F,Germany,2.0,Iran,0.0
+1998.0,Group F,USA,0.0,Yugoslavia,1.0
+1998.0,Group H,Japan,1.0,Jamaica,2.0
+1998.0,Group H,Argentina,1.0,Croatia,0.0
+1998.0,Group G,Romania,1.0,Tunisia,1.0
+1998.0,Group G,Colombia,0.0,England,2.0
+1998.0,Round of 16,Italy,1.0,Norway,0.0
+1998.0,Round of 16,Brazil,4.0,Chile,1.0
+1998.0,Round of 16,France,1.0,Paraguay,0.0
+1998.0,Round of 16,Nigeria,1.0,Denmark,4.0
+1998.0,Round of 16,Germany,2.0,Mexico,1.0
+1998.0,Round of 16,Netherlands,2.0,Yugoslavia,1.0
+1998.0,Round of 16,Romania,0.0,Croatia,1.0
+1998.0,Round of 16,Argentina,2.0,England,2.0
+1998.0,Quarter-finals,Italy,0.0,France,0.0
+1998.0,Quarter-finals,Brazil,3.0,Denmark,2.0
+1998.0,Quarter-finals,Netherlands,2.0,Argentina,1.0
+1998.0,Quarter-finals,Germany,0.0,Croatia,3.0
+1998.0,Semi-finals,Brazil,1.0,Netherlands,1.0
+1998.0,Semi-finals,France,2.0,Croatia,1.0
+1998.0,Match for third place,Netherlands,1.0,Croatia,2.0
+1998.0,Final,Brazil,0.0,France,3.0
+2002.0,Group A,France,0.0,Senegal,1.0
+2002.0,Group A,Uruguay,1.0,Denmark,2.0
+2002.0,Group E,"rn"">Republic of Ireland",1.0,Cameroon,1.0
+2002.0,Group E,Germany,8.0,Saudi Arabia,0.0
+2002.0,Group F,Argentina,1.0,Nigeria,0.0
+2002.0,Group B,Paraguay,2.0,South Africa,2.0
+2002.0,Group F,England,1.0,Sweden,1.0
+2002.0,Group B,Spain,3.0,Slovenia,1.0
+2002.0,Group C,Brazil,2.0,Turkey,1.0
+2002.0,Group G,Italy,2.0,Ecuador,0.0
+2002.0,Group G,Croatia,0.0,Mexico,1.0
+2002.0,Group C,China PR,0.0,Costa Rica,2.0
+2002.0,Group H,Japan,2.0,Belgium,2.0
+2002.0,Group D,South Korea,2.0,Poland,0.0
+2002.0,Group H,Russia,2.0,Tunisia,0.0
+2002.0,Group D,USA,3.0,Portugal,2.0
+2002.0,Group E,Germany,1.0,"rn"">Republic of Ireland",1.0
+2002.0,Group A,Denmark,1.0,Senegal,1.0
+2002.0,Group E,Cameroon,1.0,Saudi Arabia,0.0
+2002.0,Group A,France,0.0,Uruguay,0.0
+2002.0,Group F,Sweden,2.0,Nigeria,1.0
+2002.0,Group F,Argentina,0.0,England,1.0
+2002.0,Group B,Spain,3.0,Paraguay,1.0
+2002.0,Group B,South Africa,1.0,Slovenia,0.0
+2002.0,Group C,Brazil,4.0,China PR,0.0
+2002.0,Group G,Italy,1.0,Croatia,2.0
+2002.0,Group C,Costa Rica,1.0,Turkey,1.0
+2002.0,Group H,Japan,1.0,Russia,0.0
+2002.0,Group G,Mexico,2.0,Ecuador,1.0
+2002.0,Group D,South Korea,1.0,USA,1.0
+2002.0,Group D,Portugal,4.0,Poland,0.0
+2002.0,Group H,Tunisia,1.0,Belgium,1.0
+2002.0,Group A,Denmark,2.0,France,0.0
+2002.0,Group A,Senegal,3.0,Uruguay,3.0
+2002.0,Group E,Saudi Arabia,0.0,"rn"">Republic of Ireland",3.0
+2002.0,Group E,Cameroon,0.0,Germany,2.0
+2002.0,Group F,Sweden,1.0,Argentina,1.0
+2002.0,Group F,Nigeria,0.0,England,0.0
+2002.0,Group B,Slovenia,1.0,Paraguay,3.0
+2002.0,Group B,South Africa,2.0,Spain,3.0
+2002.0,Group C,Costa Rica,2.0,Brazil,5.0
+2002.0,Group C,Turkey,3.0,China PR,0.0
+2002.0,Group G,Ecuador,1.0,Croatia,0.0
+2002.0,Group G,Mexico,1.0,Italy,1.0
+2002.0,Group H,Tunisia,0.0,Japan,2.0
+2002.0,Group D,Portugal,0.0,South Korea,1.0
+2002.0,Group D,Poland,3.0,USA,1.0
+2002.0,Group H,Belgium,3.0,Russia,2.0
+2002.0,Round of 16,Denmark,0.0,England,3.0
+2002.0,Round of 16,Germany,1.0,Paraguay,0.0
+2002.0,Round of 16,Spain,1.0,"rn"">Republic of Ireland",1.0
+2002.0,Round of 16,Sweden,1.0,Senegal,2.0
+2002.0,Round of 16,Brazil,2.0,Belgium,0.0
+2002.0,Round of 16,Mexico,0.0,USA,2.0
+2002.0,Round of 16,Japan,0.0,Turkey,1.0
+2002.0,Round of 16,South Korea,2.0,Italy,1.0
+2002.0,Quarter-finals,England,1.0,Brazil,2.0
+2002.0,Quarter-finals,Germany,1.0,USA,0.0
+2002.0,Quarter-finals,Senegal,0.0,Turkey,1.0
+2002.0,Quarter-finals,Spain,0.0,South Korea,0.0
+2002.0,Semi-finals,Germany,1.0,South Korea,0.0
+2002.0,Semi-finals,Brazil,1.0,Turkey,0.0
+2002.0,Third place,South Korea,2.0,Turkey,3.0
+2002.0,Final,Germany,0.0,Brazil,2.0
+2006.0,Group A,Germany,4.0,Costa Rica,2.0
+2006.0,Group A,Poland,0.0,Ecuador,2.0
+2006.0,Group B,England,1.0,Paraguay,0.0
+2006.0,Group B,"rn"">Trinidad and Tobago",0.0,Sweden,0.0
+2006.0,Group C,Argentina,2.0,Cï¿½te d'Ivoire,1.0
+2006.0,Group C,"rn"">Serbia and Montenegro",0.0,Netherlands,1.0
+2006.0,Group D,Mexico,3.0,Iran,1.0
+2006.0,Group D,Angola,0.0,Portugal,1.0
+2006.0,Group F,Australia,3.0,Japan,1.0
+2006.0,Group E,USA,0.0,Czech Republic,3.0
+2006.0,Group E,Italy,2.0,Ghana,0.0
+2006.0,Group G,South Korea,2.0,Togo,1.0
+2006.0,Group G,France,0.0,Switzerland,0.0
+2006.0,Group F,Brazil,1.0,Croatia,0.0
+2006.0,Group H,Spain,4.0,Ukraine,0.0
+2006.0,Group H,Tunisia,2.0,Saudi Arabia,2.0
+2006.0,Group A,Germany,1.0,Poland,0.0
+2006.0,Group A,Ecuador,3.0,Costa Rica,0.0
+2006.0,Group B,England,2.0,"rn"">Trinidad and Tobago",0.0
+2006.0,Group B,Sweden,1.0,Paraguay,0.0
+2006.0,Group C,Argentina,6.0,"rn"">Serbia and Montenegro",0.0
+2006.0,Group C,Netherlands,2.0,Cï¿½te d'Ivoire,1.0
+2006.0,Group D,Mexico,0.0,Angola,0.0
+2006.0,Group D,Portugal,2.0,Iran,0.0
+2006.0,Group E,Czech Republic,0.0,Ghana,2.0
+2006.0,Group E,Italy,1.0,USA,1.0
+2006.0,Group F,Japan,0.0,Croatia,0.0
+2006.0,Group F,Brazil,2.0,Australia,0.0
+2006.0,Group G,France,1.0,South Korea,1.0
+2006.0,Group G,Togo,0.0,Switzerland,2.0
+2006.0,Group H,Saudi Arabia,0.0,Ukraine,4.0
+2006.0,Group H,Spain,3.0,Tunisia,1.0
+2006.0,Group A,Ecuador,0.0,Germany,3.0
+2006.0,Group A,Costa Rica,1.0,Poland,2.0
+2006.0,Group B,Sweden,2.0,England,2.0
+2006.0,Group B,Paraguay,2.0,"rn"">Trinidad and Tobago",0.0
+2006.0,Group D,Iran,1.0,Angola,1.0
+2006.0,Group D,Portugal,2.0,Mexico,1.0
+2006.0,Group C,Netherlands,0.0,Argentina,0.0
+2006.0,Group C,Cï¿½te d'Ivoire,3.0,"rn"">Serbia and Montenegro",2.0
+2006.0,Group E,Czech Republic,0.0,Italy,2.0
+2006.0,Group E,Ghana,2.0,USA,1.0
+2006.0,Group F,Japan,1.0,Brazil,4.0
+2006.0,Group F,Croatia,2.0,Australia,2.0
+2006.0,Group H,Ukraine,1.0,Tunisia,0.0
+2006.0,Group H,Saudi Arabia,0.0,Spain,1.0
+2006.0,Group G,Togo,0.0,France,2.0
+2006.0,Group G,Switzerland,2.0,South Korea,0.0
+2006.0,Round of 16,Germany,2.0,Sweden,0.0
+2006.0,Round of 16,Argentina,2.0,Mexico,1.0
+2006.0,Round of 16,England,1.0,Ecuador,0.0
+2006.0,Round of 16,Portugal,1.0,Netherlands,0.0
+2006.0,Round of 16,Italy,1.0,Australia,0.0
+2006.0,Round of 16,Switzerland,0.0,Ukraine,0.0
+2006.0,Round of 16,Brazil,3.0,Ghana,0.0
+2006.0,Round of 16,Spain,1.0,France,3.0
+2006.0,Quarter-finals,Germany,1.0,Argentina,1.0
+2006.0,Quarter-finals,Italy,3.0,Ukraine,0.0
+2006.0,Quarter-finals,England,0.0,Portugal,0.0
+2006.0,Quarter-finals,Brazil,0.0,France,1.0
+2006.0,Semi-finals,Germany,0.0,Italy,2.0
+2006.0,Semi-finals,Portugal,0.0,France,1.0
+2006.0,Third place,Germany,3.0,Portugal,1.0
+2006.0,Final,Italy,1.0,France,1.0
+2010.0,Group A,South Africa,1.0,Mexico,1.0
+2010.0,Group A,Uruguay,0.0,France,0.0
+2010.0,Group B,South Korea,2.0,Greece,0.0
+2010.0,Group B,Argentina,1.0,Nigeria,0.0
+2010.0,Group C,England,1.0,USA,1.0
+2010.0,Group C,Algeria,0.0,Slovenia,1.0
+2010.0,Group D,Serbia,0.0,Ghana,1.0
+2010.0,Group D,Germany,4.0,Australia,0.0
+2010.0,Group E,Netherlands,2.0,Denmark,0.0
+2010.0,Group E,Japan,1.0,Cameroon,0.0
+2010.0,Group F,Italy,1.0,Paraguay,1.0
+2010.0,Group F,New Zealand,1.0,Slovakia,1.0
+2010.0,Group G,Cï¿½te d'Ivoire,0.0,Portugal,0.0
+2010.0,Group G,Brazil,2.0,Korea DPR,1.0
+2010.0,Group H,Honduras,0.0,Chile,1.0
+2010.0,Group H,Spain,0.0,Switzerland,1.0
+2010.0,Group A,South Africa,0.0,Uruguay,3.0
+2010.0,Group B,Argentina,4.0,South Korea,1.0
+2010.0,Group B,Greece,2.0,Nigeria,1.0
+2010.0,Group A,France,0.0,Mexico,2.0
+2010.0,Group D,Germany,0.0,Serbia,1.0
+2010.0,Group C,Slovenia,2.0,USA,2.0
+2010.0,Group C,England,0.0,Algeria,0.0
+2010.0,Group E,Netherlands,1.0,Japan,0.0
+2010.0,Group D,Ghana,1.0,Australia,1.0
+2010.0,Group E,Cameroon,1.0,Denmark,2.0
+2010.0,Group F,Slovakia,0.0,Paraguay,2.0
+2010.0,Group F,Italy,1.0,New Zealand,1.0
+2010.0,Group G,Brazil,3.0,Cï¿½te d'Ivoire,1.0
+2010.0,Group G,Portugal,7.0,Korea DPR,0.0
+2010.0,Group H,Chile,1.0,Switzerland,0.0
+2010.0,Group H,Spain,2.0,Honduras,0.0
+2010.0,Group A,Mexico,0.0,Uruguay,1.0
+2010.0,Group A,France,1.0,South Africa,2.0
+2010.0,Group B,Nigeria,2.0,South Korea,2.0
+2010.0,Group B,Greece,0.0,Argentina,2.0
+2010.0,Group C,Slovenia,0.0,England,1.0
+2010.0,Group C,USA,1.0,Algeria,0.0
+2010.0,Group D,Ghana,0.0,Germany,1.0
+2010.0,Group D,Australia,2.0,Serbia,1.0
+2010.0,Group F,Slovakia,3.0,Italy,2.0
+2010.0,Group F,Paraguay,0.0,New Zealand,0.0
+2010.0,Group E,Denmark,1.0,Japan,3.0
+2010.0,Group E,Cameroon,1.0,Netherlands,2.0
+2010.0,Group G,Portugal,0.0,Brazil,0.0
+2010.0,Group G,Korea DPR,0.0,Cï¿½te d'Ivoire,3.0
+2010.0,Group H,Chile,1.0,Spain,2.0
+2010.0,Group H,Switzerland,0.0,Honduras,0.0
+2010.0,Round of 16,Uruguay,2.0,South Korea,1.0
+2010.0,Round of 16,USA,1.0,Ghana,2.0
+2010.0,Round of 16,Germany,4.0,England,1.0
+2010.0,Round of 16,Argentina,3.0,Mexico,1.0
+2010.0,Round of 16,Netherlands,2.0,Slovakia,1.0
+2010.0,Round of 16,Brazil,3.0,Chile,0.0
+2010.0,Round of 16,Paraguay,0.0,Japan,0.0
+2010.0,Round of 16,Spain,1.0,Portugal,0.0
+2010.0,Quarter-finals,Netherlands,2.0,Brazil,1.0
+2010.0,Quarter-finals,Uruguay,1.0,Ghana,1.0
+2010.0,Quarter-finals,Argentina,0.0,Germany,4.0
+2010.0,Quarter-finals,Paraguay,0.0,Spain,1.0
+2010.0,Semi-finals,Uruguay,2.0,Netherlands,3.0
+2010.0,Semi-finals,Germany,0.0,Spain,1.0
+2010.0,Match for third place,Uruguay,2.0,Germany,3.0
+2010.0,Final,Netherlands,0.0,Spain,1.0
+2014.0,Group A,Brazil,3.0,Croatia,1.0
+2014.0,Group A,Mexico,1.0,Cameroon,0.0
+2014.0,Group B,Spain,1.0,Netherlands,5.0
+2014.0,Group B,Chile,3.0,Australia,1.0
+2014.0,Group C,Colombia,3.0,Greece,0.0
+2014.0,Group D,Uruguay,1.0,Costa Rica,3.0
+2014.0,Group D,England,1.0,Italy,2.0
+2014.0,Group C,Cï¿½te d'Ivoire,2.0,Japan,1.0
+2014.0,Group E,Switzerland,2.0,Ecuador,1.0
+2014.0,Group E,France,3.0,Honduras,0.0
+2014.0,Group F,Argentina,2.0,"rn"">Bosnia and Herzegovina",1.0
+2014.0,Group G,Germany,4.0,Portugal,0.0
+2014.0,Group F,Iran,0.0,Nigeria,0.0
+2014.0,Group G,Ghana,1.0,USA,2.0
+2014.0,Group H,Belgium,2.0,Algeria,1.0
+2014.0,Group A,Brazil,0.0,Mexico,0.0
+2014.0,Group H,Russia,1.0,South Korea,1.0
+2014.0,Group B,Australia,2.0,Netherlands,3.0
+2014.0,Group B,Spain,0.0,Chile,2.0
+2014.0,Group A,Cameroon,0.0,Croatia,4.0
+2014.0,Group C,Colombia,2.0,Cï¿½te d'Ivoire,1.0
+2014.0,Group D,Uruguay,2.0,England,1.0
+2014.0,Group C,Japan,0.0,Greece,0.0
+2014.0,Group D,Italy,0.0,Costa Rica,1.0
+2014.0,Group E,Switzerland,2.0,France,5.0
+2014.0,Group E,Honduras,1.0,Ecuador,2.0
+2014.0,Group F,Argentina,1.0,Iran,0.0
+2014.0,Group G,Germany,2.0,Ghana,2.0
+2014.0,Group F,Nigeria,1.0,"rn"">Bosnia and Herzegovina",0.0
+2014.0,Group H,Belgium,1.0,Russia,0.0
+2014.0,Group H,South Korea,2.0,Algeria,4.0
+2014.0,Group G,USA,2.0,Portugal,2.0
+2014.0,Group B,Australia,0.0,Spain,3.0
+2014.0,Group B,Netherlands,2.0,Chile,0.0
+2014.0,Group A,Cameroon,1.0,Brazil,4.0
+2014.0,Group A,Croatia,1.0,Mexico,3.0
+2014.0,Group D,Italy,0.0,Uruguay,1.0
+2014.0,Group D,Costa Rica,0.0,England,0.0
+2014.0,Group C,Japan,1.0,Colombia,4.0
+2014.0,Group C,Greece,2.0,Cï¿½te d'Ivoire,1.0
+2014.0,Group F,Nigeria,2.0,Argentina,3.0
+2014.0,Group F,"rn"">Bosnia and Herzegovina",3.0,Iran,1.0
+2014.0,Group E,Honduras,0.0,Switzerland,3.0
+2014.0,Group E,Ecuador,0.0,France,0.0
+2014.0,Group G,USA,0.0,Germany,1.0
+2014.0,Group G,Portugal,2.0,Ghana,1.0
+2014.0,Group H,South Korea,0.0,Belgium,1.0
+2014.0,Group H,Algeria,1.0,Russia,1.0
+2014.0,Round of 16,Brazil,1.0,Chile,1.0
+2014.0,Round of 16,Colombia,2.0,Uruguay,0.0
+2014.0,Round of 16,France,2.0,Nigeria,0.0
+2014.0,Round of 16,Germany,2.0,Algeria,1.0
+2014.0,Quarter-finals,Brazil,2.0,Colombia,1.0
+2014.0,Quarter-finals,France,0.0,Germany,1.0
+2014.0,Semi-finals,Brazil,1.0,Germany,7.0
+2014.0,Play-off for third place,Brazil,0.0,Netherlands,3.0
+2014.0,Final,Germany,1.0,Argentina,0.0
+2014.0,Semi-finals,Netherlands,0.0,Argentina,0.0
+2014.0,Quarter-finals,Netherlands,0.0,Costa Rica,0.0
+2014.0,Quarter-finals,Argentina,1.0,Belgium,0.0
+2014.0,Round of 16,Netherlands,2.0,Mexico,1.0
+2014.0,Round of 16,Costa Rica,1.0,Greece,1.0
+2014.0,Round of 16,Argentina,1.0,Switzerland,0.0
+2014.0,Round of 16,Belgium,2.0,USA,1.0
+2014.0,Round of 16,Brazil,1.0,Chile,1.0
+2014.0,Round of 16,Colombia,2.0,Uruguay,0.0
+2014.0,Round of 16,Netherlands,2.0,Mexico,1.0
+2014.0,Round of 16,Costa Rica,1.0,Greece,1.0
+2014.0,Round of 16,France,2.0,Nigeria,0.0
+2014.0,Round of 16,Germany,2.0,Algeria,1.0
+2014.0,Round of 16,Argentina,1.0,Switzerland,0.0
+2014.0,Round of 16,Belgium,2.0,USA,1.0
+2014.0,Quarter-finals,France,0.0,Germany,1.0
+2014.0,Quarter-finals,Brazil,2.0,Colombia,1.0
+2014.0,Quarter-finals,Argentina,1.0,Belgium,0.0
+2014.0,Quarter-finals,Netherlands,0.0,Costa Rica,0.0
+2014.0,Semi-finals,Brazil,1.0,Germany,7.0
+2014.0,Semi-finals,Netherlands,0.0,Argentina,0.0
+2014.0,Play-off for third place,Brazil,0.0,Netherlands,3.0
+2014.0,Final,Germany,1.0,Argentina,0.0
