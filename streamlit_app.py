@@ -75,7 +75,7 @@ map
 ########################################################################################################################################################
 
 st.header("2. Set your Team")
-st.text("Select a Group and a Team")
+st.text("Select a Group and a Team here.")
 
 # make the dropdown
 cols = st.columns(2)
@@ -147,7 +147,7 @@ with cols[2]:
 ########################################################################################################################################################
 
 st.header("4. Analyze the two Teams")
-st.text("Preview the Winning Rate based on the Historical Record between.")
+st.text("Preview the Winning Rate between the two based on the Historical Record. (There might be no pie if they never had the match before in the WC.)")
 
 yourinput = teaminput
 oppinput = st.radio('Select the Opponent team here', [team1, team2, team3])
