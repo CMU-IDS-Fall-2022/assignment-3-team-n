@@ -44,7 +44,7 @@ st.text("Select your own team and get any data of the team in the World Cup 2022
 ########################################################################################################################################################
 
 st.header("1. Explore the WC2022 Map")
-st.text("What countries are included in the finalized 32 teams on the group stage of WC2022?")
+st.text("What countries are included in the finalized 32 teams on the group stage of the WC2022?")
 
 mapData = alt.topo_feature(data.world_110m.url, "countries")
 
