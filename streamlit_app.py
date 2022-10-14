@@ -21,7 +21,6 @@ from vega_datasets import data
 ########################################################################################################################################################
 st.set_page_config(layout = "wide")
 
-@st.cache
 def load(url):
     return pd.read_csv(url, encoding = "latin1")
 
