@@ -26,13 +26,10 @@ def load(url):
     return pd.read_csv(url, encoding = "latin1")
 
 df = load("https://raw.githubusercontent.com/CMU-IDS-Fall-2022/assignment-3-team-n/master/WC22_main.csv")
+df_hist = load("https://raw.githubusercontent.com/CMU-IDS-Fall-2022/assignment-3-team-n/master/WCHistory.csv")
 
 if st.checkbox("Show Raw Data"):
     st.write(df)
-
-# World Cup 2022 Countries Location Data
-
-
 
 # MAIN CODE ############################################################################################################################################
 
@@ -75,7 +72,7 @@ map
 ########################################################################################################################################################
 
 st.header("2. Set your Team")
-st.text("Select a Group and a Team here.")
+st.text("Select a Group and a Team")
 
 # make the dropdown
 cols = st.columns(2)
@@ -105,6 +102,13 @@ def get_input(df, grouplist, teamlist):
 slice_labels = get_input(df, grouplist, teamlist)
 teaminput = df[slice_labels].Team.item()
 st.write("Okay! Your team is **{Team}**.".format(Team = teaminput))
+
+#############################################################################
+# History
+#############################################################################
+
+temp_data = df_hist.loc[(df_hist["Home Team Name"] == teaminput) | (df_hist["Away Team Name"] == teaminput)]
+st.write(temp_data)
 
 ########################################################################################################################################################
 # Opponents
@@ -147,7 +151,7 @@ with cols[2]:
 ########################################################################################################################################################
 
 st.header("4. Analyze the two Teams")
-st.text("Preview the Winning Rate between the two based on the Historical Record. (No pie chart provided if they never had the match before in the WC history.)")
+st.text("Preview the Winning Rate based on the Historical Record between.")
 
 yourinput = teaminput
 oppinput = st.radio('Select the Opponent team here', [team1, team2, team3])
