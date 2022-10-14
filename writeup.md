@@ -1,6 +1,6 @@
 # Let’s guess who wins this World Cup Qatar 2022🌎⚽️
 
-![A screenshot of your application. Could be a GIF.](screenshot.png)
+![A screenshot of your application. Could be a GIF.](screenshot.PNG)
 
 TODO: Update screenshot
 
