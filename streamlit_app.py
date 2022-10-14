@@ -24,7 +24,7 @@ st.set_page_config(layout = "wide")
 def load(url):
     return pd.read_csv(url, encoding = "latin1")
 
-st@cache
+@st.cache
 df = load("https://raw.githubusercontent.com/CMU-IDS-Fall-2022/assignment-3-team-n/master/WC22_main.csv")
 df_hist = load("https://raw.githubusercontent.com/CMU-IDS-Fall-2022/assignment-3-team-n/master/WCHistory.csv")
 
