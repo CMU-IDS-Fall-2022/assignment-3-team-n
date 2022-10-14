@@ -3,7 +3,7 @@
 # Course: Interactive Data Science(05839-A)
 # Coded By: Jeffrey Na, Ninad Bandewar
 # AndrewID: jjna, nbandewa
-# Date: Oct 09, 2022
+# Date: Oct 13, 2022
 # Thanks to Prof. John Stamper, Prof. Adam Perer & TAs for there assistance
 ########################################################################################################################################################
 
@@ -37,14 +37,14 @@ if st.checkbox("Show Raw Data"):
 # MAIN CODE ############################################################################################################################################
 
 st.title("Let’s guess who wins this World Cup Qatar 2022🌎⚽️")
-st.text("Select your own team and get any data of the team in the FIFA WC 2022 here")
+st.text("Select your own team and get any data of the team in the World Cup 2022 here.")
 
 ########################################################################################################################################################
 # Map
 ########################################################################################################################################################
 
-st.header("1. Explore the WC22 Map")
-st.text("What country is included in the 32 teams on the group stage?")
+st.header("1. Explore the WC2022 Map")
+st.text("What countries are included in the finalized 32 teams on the group stage of WC2022?")
 
 mapData = alt.topo_feature(data.world_110m.url, "countries")
 
@@ -88,7 +88,7 @@ dfSubset = df.query("Group == @groupinput")
 with cols[1]:
     teaminput = st.selectbox('Team', dfSubset['Team'].unique())
 
-# Get the dropdown input
+# get the dropdown input
 grouplist = []
 grouplist.append(groupinput)
 teamlist = []
@@ -103,18 +103,17 @@ def get_input(df, grouplist, teamlist):
     return labels
 
 slice_labels = get_input(df, grouplist, teamlist)
-st.write("The sliced dataset contains {} elements".format(len(slice_labels)))
 teaminput = df[slice_labels].Team.item()
-
-st.write("Your team is **{Team}**".format(Team = teaminput))
+st.write("Okay! Your team is **{Team}**.".format(Team = teaminput))
 
 ########################################################################################################################################################
 # Opponents
 ########################################################################################################################################################
 
 st.header("3. Get to know the Opponents")
-st.text("Check the Opponent teams and the match dates of WC22")
+st.text("Now, check the Opponent teams in the group and the match dates planned of the WC2022.")
 
+#get the team index
 cols = st.columns(3)
 
 team1 = df[slice_labels]['team1'].item()
@@ -148,10 +147,10 @@ with cols[2]:
 ########################################################################################################################################################
 
 st.header("4. Analyze the two Teams")
-st.text("Preview the Winning Rate based on the Historical Record")
+st.text("Preview the Winning Rate based on the Historical Record between.")
 
 yourinput = teaminput
-oppinput = st.radio('Select the Opponent here', [team1, team2, team3])
+oppinput = st.radio('Select the Opponent team here', [team1, team2, team3])
 colorspec = ['lightgrey','grey','darkblue']
 
 #display the two dataset
