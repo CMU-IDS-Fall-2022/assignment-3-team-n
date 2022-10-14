@@ -6,7 +6,7 @@ TODO: Update screenshot
 
 TODO: Short abstract describing the main goals and how you achieved them.
 
-**This project provides users with informative data about 32 teams in the FIFA World cup (WC) Qatar starting from November 20th, 2022. A user can explore the customized map and get historical WC records of any team interested. With the planned match date information, this app shows the winning rate between the opponents in the same group.**
+**This project provides users with informative data about the 32 teams in the FIFA World cup (WC) Qatar starting from November 20th, 2022. A user can explore the customized map and get historical WC records of any team interested. With the planned match date information, this app shows the winning rate between the opponents in the same group.**
 
 ## Project Goals
 
