@@ -12,7 +12,7 @@ TODO: Short abstract describing the main goals and how you achieved them.
 
 TODO: **A clear description of the goals of your project.** Describe the question that you are enabling a user to answer. The question should be compelling and the solution should be focused on helping users achieve their goals. 
 
-**The exploration of the application aims to give an answer to the key question of how the team on the group stage can set strategies to get to the round of 16. Given that only two teams in a group could go there, most soccer fans would like to know which opponent team would be the easiest or the most challenging. Comparison analysis in terms of past(historical) and present(FIFA ranking) data will allow them to build the winning scenario this winter.**
+The exploration of the application aims to give an answer to the key question of how the team on the group stage can set strategies to get to the round of 16. Given that only two teams in a group could go there, most soccer fans would like to know which opponent team would be the easiest or the most challenging. Comparison analysis in terms of past(historical) and present(FIFA ranking) data will allow them to build the winning scenario this winter.
 
 ## Design
 
