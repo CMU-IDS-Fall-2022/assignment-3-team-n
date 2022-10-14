@@ -1,5 +1,5 @@
 ########################################################################################################################################################
-# This project provides users with informative data about 32 teams in the FIFA World cup Qatar starting from November 20th, 2022.
+# This project provides users with informative data about the 32 teams in the FIFA World cup Qatar starting from November 20th, 2022.
 # Course: Interactive Data Science(05839-A)
 # Coded By: Jeffrey Na, Ninad Bandewar
 # AndrewID: jjna, nbandewa
@@ -21,10 +21,10 @@ from vega_datasets import data
 ########################################################################################################################################################
 st.set_page_config(layout = "wide")
 
-@st.cache
 def load(url):
     return pd.read_csv(url, encoding = "latin1")
 
+@st.cache
 df = load("https://raw.githubusercontent.com/CMU-IDS-Fall-2022/assignment-3-team-n/master/WC22_main.csv")
 df_hist = load("https://raw.githubusercontent.com/CMU-IDS-Fall-2022/assignment-3-team-n/master/WCHistory.csv")
 
