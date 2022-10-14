@@ -72,7 +72,7 @@ map
 ########################################################################################################################################################
 
 st.header("2. Set your Team")
-st.text("Select a Group and a Team")
+st.text("Select a Group and a Team here.")
 
 # make the dropdown
 cols = st.columns(2)
